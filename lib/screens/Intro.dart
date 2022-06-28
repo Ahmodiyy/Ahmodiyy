@@ -120,7 +120,7 @@ Widget buildIntro(TextAlign textAlign, BoxConstraints constraints) {
                   child: buildButton(
                     actionText: 'Contact me',
                     action: () =>
-                        launchUrl(Uri.parse('https://github.com/Ahmodiyy/')),
+                        launchUrl(Uri.parse('https://twitter.com/Ahmodiyy')),
                     backgroundColor: Colors.black,
                     textColor: Colors.white,
                   ),
