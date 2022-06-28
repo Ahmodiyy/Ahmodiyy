@@ -87,7 +87,6 @@ Widget buildIntro(TextAlign textAlign, BoxConstraints constraints) {
       Text(
         'I\'m a flutter developer based in Nigeria, I have 1 year of experience and I specialize in create cross platform app using flutter. I am open for new opportunity and interesting project.',
         textAlign: textAlign,
-        softWrap: true,
       ),
       constraints.maxWidth < mobileWidth
           ? Row(
