@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import '../constant.dart';
 
@@ -86,6 +87,7 @@ Widget buildIntro(TextAlign textAlign, BoxConstraints constraints) {
       Text(
         'I\'m a flutter developer based in Nigeria, I have 1 year of experience and I specialize in create cross platform app using flutter. I am open for new opportunity and interesting project.',
         textAlign: textAlign,
+        softWrap: true,
       ),
       constraints.maxWidth < mobileWidth
           ? Row(
@@ -93,7 +95,8 @@ Widget buildIntro(TextAlign textAlign, BoxConstraints constraints) {
                 Expanded(
                   child: buildButton(
                     actionText: 'Contact me',
-                    action: () {},
+                    action: () =>
+                        launchUrl(Uri.parse('https://twitter.com/Ahmodiyy')),
                     backgroundColor: Colors.black,
                     textColor: Colors.white,
                   ),
@@ -104,7 +107,8 @@ Widget buildIntro(TextAlign textAlign, BoxConstraints constraints) {
                 Expanded(
                   child: buildButton(
                     actionText: 'Check my work',
-                    action: () {},
+                    action: () =>
+                        launchUrl(Uri.parse('https://github.com/Ahmodiyy/')),
                     backgroundColor: Colors.white,
                     textColor: const Color(0xff676768),
                   ),
@@ -116,7 +120,8 @@ Widget buildIntro(TextAlign textAlign, BoxConstraints constraints) {
                 Flexible(
                   child: buildButton(
                     actionText: 'Contact me',
-                    action: () {},
+                    action: () =>
+                        launchUrl(Uri.parse('https://github.com/Ahmodiyy/')),
                     backgroundColor: Colors.black,
                     textColor: Colors.white,
                   ),
@@ -127,7 +132,8 @@ Widget buildIntro(TextAlign textAlign, BoxConstraints constraints) {
                 Flexible(
                   child: buildButton(
                     actionText: 'Check my work',
-                    action: () {},
+                    action: () =>
+                        launchUrl(Uri.parse('https://github.com/Ahmodiyy/')),
                     backgroundColor: Colors.white,
                     textColor: const Color(0xff676768),
                   ),

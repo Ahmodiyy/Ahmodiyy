@@ -16,5 +16,8 @@ const constantHeaderStyle = TextStyle(
   fontSize: 30,
   fontWeight: FontWeight.w900,
 );
-
+const sizedBoxHeightTwenty = SizedBox(
+  height: 20,
+);
 const mobileWidth = 600;
+const laptopWidth = 1240;
