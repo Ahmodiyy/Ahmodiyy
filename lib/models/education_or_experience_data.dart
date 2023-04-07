@@ -10,8 +10,10 @@ class EducationOrExperienceData {
   ];
   static List<EducationOrExperienceModel> experiences = [
     EducationOrExperienceModel(
-        title: 'Flutter Developer',
-        dateRange: '2022 - current',
-        location: 'Teminla'),
+        title: 'Flutter Developer', dateRange: '2022', location: 'Teminla.com'),
+    EducationOrExperienceModel(
+        title: 'Faculty',
+        dateRange: '2023 - current',
+        location: 'Ogun state, Agbara'),
   ];
 }

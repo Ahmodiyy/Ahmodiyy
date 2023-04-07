@@ -58,9 +58,12 @@ Widget buildResume() {
         style: constantHeaderStyle,
       ),
       sizedBoxHeightTwenty,
-      const Text(
-        'I started my journey at NIIT. I developed my skill on database, mobile, desktop, web and other software development lifecycle processes during these period.',
-        textAlign: TextAlign.center,
+      const SizedBox(
+        width: 800,
+        child: Text(
+          'I started my journey at NIIT. I developed my skill on database, mobile, desktop, web and other software development lifecycle processes during these period.',
+          textAlign: TextAlign.center,
+        ),
       ),
       sizedBoxHeightTwenty,
       const Text(
