@@ -30,8 +30,8 @@ Widget buildResumeAndAddImageOrNot(BuildContext context) {
               children: [
                 buildResume(),
                 Positioned(
-                  top: 270,
-                  right: 200,
+                  bottom: 30,
+                  right: 150,
                   child: Container(
                     height: 150,
                     width: 150,
