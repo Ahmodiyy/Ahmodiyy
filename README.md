@@ -1,6 +1,4 @@
-<div style='text-align: center;'>
-  Mahmud Ahmod
-</div>
+# Mahmud Ahmod
 <br>
 <p style="text-align: center;">A passionate and dedicated Flutter mobile developer with a knack for turning innovative ideas into exceptional user experiences. With a keen eye for design and understanding of software development.What sets me apart is my continuous thirst for knowledge. I'm always seeking out the latest trends and best practices in Flutter development to ensure my work aligns with industry standards.</p>
 
@@ -12,13 +10,19 @@
 #### Git repo : [Phase](https://github.com/Ahmodiyy/phase).
 <br>
 ### Recipe app  
+#### Description : A recipe app to find and share recipe.
 #### Project idea : [Teminla](https://teminla.com/startup.html).
 #### Design inspiration : Designed by [Yusuf](https://www.figma.com/file/ZrX2W28Cz3sSzKI5KzHGgR/V1?type=design&node-id=0-1&mode=design&t=xeph6jYSBXmdKKYB-0).
-
-![merge_from_ofoct (1)](https://user-images.githubusercontent.com/61211517/180602317-9f8274c7-c814-4b05-98ff-53bac015c184.jpg)  
- founder of   
-### Body mass index  
-![merge_from_ofoct (2)](https://user-images.githubusercontent.com/61211517/180602633-5d7cc4b5-f696-4176-ba48-a5ffac441eed.jpg)
+<br>
+### Chat app
+#### Description : A group chat app for introvert.
+#### Project idea : [Teminla](https://teminla.com/startup.html).
+#### Design inspiration : Designed by [Yusuf](https://www.figma.com/file/ZrX2W28Cz3sSzKI5KzHGgR/V1?type=design&node-id=0-1&mode=design&t=xeph6jYSBXmdKKYB-0).
+<br>
+### BMI
+#### Description : Measuring body fat based on height and weight that applies to adult men and women.
+#### Project idea : [Teminla](https://teminla.com/startup.html).
+#### Design inspiration : Designed by [Yusuf](https://www.figma.com/file/ZrX2W28Cz3sSzKI5KzHGgR/V1?type=design&node-id=0-1&mode=design&t=xeph6jYSBXmdKKYB-0).
 
 
 
