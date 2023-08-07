@@ -2,26 +2,26 @@
 <br>
 <p style="text-align: center;">A passionate and dedicated Flutter mobile developer with a knack for turning innovative ideas into exceptional user experiences. With a keen eye for design and understanding of software development.What sets me apart is my continuous thirst for knowledge. I'm always seeking out the latest trends and best practices in Flutter development to ensure my work aligns with industry standards.</p>
 
-## My favourite projects  
-### Phase
+# My favourite projects  
+## Phase
 #### Description : A crypto based project, helping to ease identification of financial market phases.
 #### Project idea : [Trade ATS](https://www.youtube.com/watch?v=2So_DuWmAAs&pp=ygUJdHJhZGUgYXRz).
 #### Design inspiration : Designed by [Conceptzilla](https://dribbble.com/shots/21119250-Crypto-App-Animation-Concept).
 #### Git repo : [Phase](https://github.com/Ahmodiyy/phase).
 
-### Cheeky chewer  
+## Cheeky chewer  
 #### Description : A recipe app to find and share recipe.
 #### Project idea : [Teminla](https://teminla.com/startup.html).
 #### Design inspiration : Designed by [Yusuf](https://www.figma.com/file/ZrX2W28Cz3sSzKI5KzHGgR/V1?type=design&node-id=0-1&mode=design&t=xeph6jYSBXmdKKYB-0).
-#### Git repo : [Cheeky chewer](https://github.com/Ahmodiyy/phase).
+#### Git repo : [Cheeky chewer](https://github.com/Ahmodiyy/cheeky-chewer-teminla).
 
-### Chat app
+## Introchat
 #### Description : A group chat app for introvert.
-#### Project idea : [Teminla](https://teminla.com/startup.html).
-#### Design inspiration : Designed by [Yusuf](https://www.figma.com/file/ZrX2W28Cz3sSzKI5KzHGgR/V1?type=design&node-id=0-1&mode=design&t=xeph6jYSBXmdKKYB-0).
-#### Git repo : [Chat app](https://github.com/Ahmodiyy/flutter-chat-app).
+#### Project idea : My final semester project.
+#### Design inspiration : Designed by [Karol kos](https://dribbble.com/shots/14953087-KeyVue-chat/attachments/6670424?mode=media).
+#### Git repo : [Introchat](https://github.com/Ahmodiyy/flutter-chat-app).
 
-### BMI
+## BMI
 #### Description : Measuring body fat based on height and weight that applies to adult men and women.
 #### Project idea : Learning.
 #### Design inspiration : Designed by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator).
