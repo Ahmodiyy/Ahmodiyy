@@ -20,7 +20,7 @@
 #### Description : A group chat app for introvert.
 #### Project idea : My final semester project.
 #### Design inspiration : Designed by [Karol kos](https://dribbble.com/shots/14953087-KeyVue-chat/attachments/6670424?mode=media).
-#### Git repo : [Introchat](https://github.com/Ahmodiyy/flutter-chat-app).
+#### Git repo : [Introchat](https://github.com/Ahmodiyy/introchat.git).
 
 ## BMI
 #### Description : Measuring body fat based on height and weight that applies to adult men and women.
