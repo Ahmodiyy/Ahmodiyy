@@ -6,7 +6,7 @@
 
 ## Phase
 #### Description : A crypto based project, helping to ease identification of financial market phases.
-#### Project idea : [Trade ATS](https://www.youtube.com/watch?v=2So_DuWmAAs&pp=ygUJdHJhZGUgYXRz).
+#### Project idea : [Trade ATS](https://www.tradeats.com/).
 #### Design inspiration : Designed by [Conceptzilla](https://dribbble.com/shots/21119250-Crypto-App-Animation-Concept).
 #### Git repo : [Phase](https://github.com/Ahmodiyy/phase).
 
