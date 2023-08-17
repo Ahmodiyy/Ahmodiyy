@@ -16,18 +16,16 @@
 #### Design inspiration : Designed by [Yusuf](https://www.figma.com/file/ZrX2W28Cz3sSzKI5KzHGgR/V1?type=design&node-id=0-1&mode=design&t=xeph6jYSBXmdKKYB-0).
 #### Git repo : [Cheeky chewer](https://github.com/Ahmodiyy/cheeky-chewer-teminla).
 
-## Introchat
-#### Description : A group chat app for introvert.
-#### Project idea : My final semester project.
-#### Design inspiration : Designed by [Karol kos](https://dribbble.com/shots/14953087-KeyVue-chat/attachments/6670424?mode=media).
-#### Git repo : [Introchat](https://github.com/Ahmodiyy/introchat.git).
-
 ## BMI
 #### Description : Measuring body fat based on height and weight that applies to adult men and women.
 #### Project idea : Learning.
 #### Design inspiration : Designed by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator).
 #### Git repo : [BMI](https://github.com/Ahmodiyy/bmi).
 
-
+## Introchat
+#### Description : A group chat app for introvert.
+#### Project idea : My final semester project.
+#### Design inspiration : Designed by [Karol kos](https://dribbble.com/shots/14953087-KeyVue-chat/attachments/6670424?mode=media).
+#### Git repo : [Introchat](https://github.com/Ahmodiyy/introchat.git).
 
 
