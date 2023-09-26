@@ -30,7 +30,7 @@ Git repo : [Introchat](https://github.com/Ahmodiyy/introchat.git).
 
 # Design challenge
 ## Tinder book
-![swipe (1)](https://github.com/Ahmodiyy/Ahmodiyy/assets/61211517/0e956723-c16a-4d98-a82b-d8ad419bc850)
+![swipe (1)](https://github.com/Ahmodiyy/Ahmodiyy/assets/61211517/0e956723-c16a-4d98-a82b-d8ad419bc850)  
 Git repo : [Tinder book](https://github.com/Ahmodiyy/Tinder_Book).
 
 
