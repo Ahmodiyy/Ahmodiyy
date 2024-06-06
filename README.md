@@ -7,6 +7,7 @@
 * 📫 How to reach me:  
   * Email: ahmodolaitan03@gmail.com
   * [Linkedln](https://www.linkedin.com/in/ahmod-mahmud-6348711b9/)
+  * [Twitter](https://x.com/Ahmodiyy)
 
 <h2>My favourite project</h2>
 
