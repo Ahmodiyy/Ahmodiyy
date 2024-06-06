@@ -6,7 +6,7 @@
 * 💬 Ask me about anything Flutter  
 * 📫 How to reach me:  
   * Email: ahmodolaitan03@gmail.com
-  * Linkedln: https://www.linkedin.com/in/ahmod-mahmud-6348711b9/
+  * [Linkedln](https://www.linkedin.com/in/ahmod-mahmud-6348711b9/)
 
 <h2>My favourite project</h2>
 
