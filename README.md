@@ -10,7 +10,7 @@
   * [Twitter](https://x.com/Ahmodiyy)  
 <br />
 <div style="display: flex; align-items: center;">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=ahmodiyy&show_icons=true&count_private=true&hide_title=false&theme=dracula" alt="Roaa's Github Stats" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=ahmodiyy&show_icons=true&count_private=true&hide_title=false&theme=dracula" alt="Ahmodiyy's Github Stats" />
 
 <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=ahmodiyy&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Roaa's GitHub Streaks" />
 </div>
