@@ -5,7 +5,7 @@
 * I’m currently learning everything I can find about Flutter 💙, the learning never stops!  
 * 💬 Ask me about anything Flutter  
 * 📫 How to reach me:  
-  * Email: ahmodolaitan03@gmail.com
+  * ahmodolaitan03@gmail.com
   * Linkedln: [Linkedln](https://www.linkedin.com/in/ahmod-mahmud-6348711b9/)
   * Twitter: [Twitter](https://x.com/Ahmodiyy)  
 <br />
