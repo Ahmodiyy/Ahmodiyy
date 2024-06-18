@@ -7,7 +7,7 @@
 * 📫 How to reach me:  
   * ahmodolaitan03@gmail.com
   * [Linkedln](https://www.linkedin.com/in/ahmod-mahmud-6348711b9/)
-  * Twitter: [Twitter](https://x.com/Ahmodiyy)  
+  * [Twitter](https://x.com/Ahmodiyy)  
 <br />
 <div style="display: flex; align-items: center;">
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ahmodiyy&show_icons=true&count_private=true&hide_title=false&theme=dracula" alt="Ahmodiyy's Github Stats" />
