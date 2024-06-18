@@ -6,7 +6,7 @@
 * 💬 Ask me about anything Flutter  
 * 📫 How to reach me:  
   * ahmodolaitan03@gmail.com
-  * Linkedln: [Linkedln](https://www.linkedin.com/in/ahmod-mahmud-6348711b9/)
+  * [Linkedln](https://www.linkedin.com/in/ahmod-mahmud-6348711b9/)
   * Twitter: [Twitter](https://x.com/Ahmodiyy)  
 <br />
 <div style="display: flex; align-items: center;">
