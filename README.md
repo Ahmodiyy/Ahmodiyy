@@ -20,7 +20,8 @@
 Description : Healthcare app.  
 Project idea : [medifirsttechnology](https://medifirsttechnology.com/).  
 Design inspiration : Designed by [Medifirst ui/ux](https://www.figma.com/design/aG9CP7fqARB5kC8PFzObiH/MediFirst-Prototype?node-id=0-1&p=f&t=gtHlMkg68JHEKI4r-0).  
-Git repo : [MediFirst](https://github.com/Ahmodiyy/medifirst).
+Git repo : [MediFirst](https://github.com/Ahmodiyy/medifirst).  
+App : [App testing link](https://play.google.com/apps/test/com.medifirst.medifirst/4).
 
 ## Cheeky chewer  
 Description : A recipe app to find and share recipe.  
